@@ -1,0 +1,6 @@
+owner=545588270822850561
+prefix=D
+game=Dragoon | DPlay
+stayinchannel=true
+songinstatus=false
+token=NTYwMjExMzU0NDQzNTc5NDAz.D3wpew.rwiX6m_NVrcCPM8DNT2YsI_-e8A
