@@ -3,4 +3,4 @@ prefix=D
 game=Dragoon | DPlay
 stayinchannel=true
 songinstatus=false
-token=NTYwMjExMzU0NDQzNTc5NDAz.D31vCA.DhTOG2Pc3e6aSQ1gMVGu7DWceXc
+token=NTYwMjExMzU0NDQzNTc5NDAz.D31vbg.tpHF6ggRLda-n0i72EKugxPTpNU
