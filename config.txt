@@ -2,5 +2,5 @@ owner=545588270822850561
 prefix=D
 game=Dragoon | DPlay
 stayinchannel=true
-songinstatus=true
-token=NTYwMjExMzU0NDQzNTc5NDAz.D31twA.dIa53_3izhldUqpJO9-6eWfDw1w
+songinstatus=false
+token=NTYwMjExMzU0NDQzNTc5NDAz.D31vCA.DhTOG2Pc3e6aSQ1gMVGu7DWceXc
